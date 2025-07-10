@@ -1,5 +1,6 @@
 # House-Price-Prediction-App
 This is a basic machine learning project that predicts the estimated price of a house based on user input. The app is built using Python, Scikit-learn, and Streamlit for a simple web interface.
+
 **🔍 Features:**
 1.User inputs: area (sq ft), bedrooms, bathrooms, and location
 2.Predicts house price using a trained linear regression model
